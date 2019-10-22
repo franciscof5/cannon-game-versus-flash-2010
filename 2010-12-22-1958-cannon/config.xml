@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game
+	game_width="980"
+	game_height="500"
+	game_time="60" //time to end the game
+	force_factor = "0.05" //the factor of force gain when the space bar pressioned
+	air_resistence = "0.01" //the resistence of the air
+	side_wall = "1" //if the side has walls the ball will hit it and came back
+>
+	<cannon>
+</stage>
